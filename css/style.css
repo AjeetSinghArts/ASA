@@ -1,0 +1,17 @@
+body{
+  background-color: #EAF6F6;
+}
+h1{
+  color:  #1597E5;
+}
+h3{
+  color:  #1597E5;
+}
+h4{
+  color:  #1597E5;
+}
+hr {
+  border-style: groove none none;
+  width: 100%;
+  border-width: 5px;
+}
